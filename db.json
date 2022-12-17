@@ -1,0 +1,32 @@
+{
+  "livros": [
+    {
+      "name": "IT a Coisa",
+      "autor": "Stephen King",
+      "category": {
+        "id": "1",
+        "name": "Suspense"
+      },
+      "valor": 50,
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Suspense"
+    },
+    {
+      "id": 2,
+      "name": "Romance"
+    },
+    {
+      "id": 3,
+      "name": "Ação"
+    },
+    {
+      "id": 4,
+      "name": "Auto Ajuda"
+    }
+  ]
+}
